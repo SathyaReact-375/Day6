@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/Day6/static/js/main.3c210e2b.js",
+    "static/js/453.bc861a72.chunk.js": "/Day6/static/js/453.bc861a72.chunk.js",
+    "index.html": "/Day6/index.html",
+    "main.3c210e2b.js.map": "/Day6/static/js/main.3c210e2b.js.map",
+    "453.bc861a72.chunk.js.map": "/Day6/static/js/453.bc861a72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3c210e2b.js"
+  ]
+}
